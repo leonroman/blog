@@ -1,1 +1,1 @@
-# blog
+A simple jekyll template
