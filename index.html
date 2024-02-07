@@ -1,5 +1,6 @@
 ---
 title: Home
+tag: Test
 ---
 <!doctype html>
 <html>
@@ -8,6 +9,12 @@ title: Home
     <title>{{ page.title }}</title>
   </head>
   <body>
-    <h1>{{ "Hello World!" | downcase }}</h1>
+    <h1>My test article</h1>
+    <div>
+      Tags:{{ page.tag | downcase }}
+    </div>
+    <div>
+      Lorem ipsim content
+    </div>
   </body>
 </html>
