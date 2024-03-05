@@ -13,41 +13,22 @@ body
   line-height: 54px;
   position: relative;
 }
+.wrapper
+{
+  max-width: calc(800px - (30px));
+  padding: 0 30px;
+}
 @media screen and (min-width: 600px) 
 {
   .site-nav
   {
-    position: static;
-    float: right;
-    border: none;
-    background-color: inherit;
+    border-radius: 5px;
   }
 }
 .site-nav 
 {
-  position: absolute;
-  top: 9px;
-  right: 15px;
-  background-color: #fdfdfd;
-  border: 1px solid #e8e8e8;
-  border-radius: 5px;
-  text-align: right;
-}
-@media screen and (min-width: 800px) 
-{
-  .wrapper
-  {
-    max-width: calc(800px - (30px * 2));
-    padding-right: 30px;
-    padding-left: 30px;
-
-  }
-}
-.wrapper
-{
-  max-width: calc(800px - (30px));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: 15px;
-  padding-left: 15px;
+  position: static;
+  float: right;
+  border: none;
+  background-color: inherit;
 }
