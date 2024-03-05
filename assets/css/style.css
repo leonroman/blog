@@ -4,5 +4,22 @@ body
   padding: 0;
   font: 400 16px/1.5 -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
   color: #111111;
-  background-color: #ced69c1c;
+  background-color: #abbb411c;
+}
+.site-header
+{
+  border-top: 5px solid #424242;
+  border-bottom: 1px solid #e8e8e8;
+  min-height: 55.95px;
+  line-height: 54px;
+  position: relative;
+}
+.wrapper
+{
+  max-width: calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+
 }
