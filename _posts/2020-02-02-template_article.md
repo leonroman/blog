@@ -96,5 +96,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 {% comment %}
 Might you have an include in your theme? Why not try it here!
-{% endcomment %}
 {% include my-themes-great-include.html %}
+{% endcomment %}
