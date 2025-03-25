@@ -62,6 +62,7 @@ Source: https://thesecmaster.com/blog/how-to-disable-tls-1-0-and-tls-1-1-on-wind
 
 Run the below commands to create Registry entries.
  - TLS 1.0
+
 ```bash
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.0\Server" /v Enabled /t REG_DWORD /d 0 /f 
 
@@ -73,6 +74,7 @@ reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurityProviders\S
 ```
 
  - TLS 1.1
+ 
 ```bash
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.1\Server" /v Enabled /t REG_DWORD /d 0 /f 
 
