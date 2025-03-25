@@ -2,7 +2,7 @@
 layout: post
 title: "Convert Git EOL"
 categories: junk
-author: Bart Simpson
+author: rleon
 tags: git terminal bash
 ---
 
