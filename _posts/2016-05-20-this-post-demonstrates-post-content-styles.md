@@ -6,27 +6,24 @@ author: Bart Simpson
 tags: markdown example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
+# Some great heading (h1)
 
-## Some great heading (h2)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Proin *italicized text* convallis **bold text** mi ac ~~strikethrough~~ felis <u>underline<u> pharetra aliquam.
+[title](https://www.example.com)
 
 ## Another great heading (h2)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+![alt text](image.jpg)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. 
 
 ### Some great subheading (h3)
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
-
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
 
 ### Some great subheading (h3)
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. 
 
 > This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
 
@@ -34,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 ### Some great subheading (h3)
 
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
+Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam.
 
 ```html
 <html>
@@ -46,30 +43,27 @@ Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin con
 </html>
 ```
 
+```bash
+ls -ltr
+```
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
 
 #### You might want a sub-subheading (h4)
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
 
 ##### Could be a smaller sub-heading, `pacman` (h5)
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
 
 ###### Small yet significant sub-heading  (h6)
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
 
 ### Oh hai, an unordered list!!
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
 
 - First item, yo
 - Second item, dawg
@@ -78,22 +72,19 @@ In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla e
 
 ### Oh hai, an ordered list!!
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
 
 1. First item, yo
 2. Second item, dawg
 3. Third item, what what?!
 4. Fourth item, fo sheezy my neezy
 
+### List
 
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+Task List
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 ### Tables
 
@@ -112,123 +103,9 @@ lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsu
 lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
 lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
 
-## Comment
+### Comment
 
 {% comment %}
 Might you have an include in your theme? Why not try it here!
 {% include my-themes-great-include.html %}
 {% endcomment %}
-
-
-Basic Syntax
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
-
-------------------------------------------
-
-# Element	Markdown Syntax
-
-## Heading	
-# H1 - (# H1)
-## H2 - (## H2)
-### H3 - (### H3)
-
-## Bold	
-**bold text** - (**bold text**)
-
-## Italic	
-*italicized text* - (*italicized text*)
-
-## Blockquote	
-> blockquote - (> blockquote)
-
-## Ordered List	
-1. First item - (1. First item)
-2. Second item - (2. Second item)
-3. Third item - (3. Third item)
-
-## Unordered List	
-- First item - (- First item)
-- Second item - (- Second item)
-- Third item - (- Third item)
-
-## Code	`code`
-`code` - (`code`)
-
-## Link	
-[title](https://www.example.com) - ([title](https://www.example.com))
-
-## Image	
-![alt text](image.jpg) - (![alt text](image.jpg))
-
-# Extended Syntax
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
-
-## Table
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-(| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |)
-
-## Fenced Code Block
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-(```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```)
-
-## Footnote
-Here's a sentence with a footnote. [^1]
-[^1]: This is the footnote.
-(Here's a sentence with a footnote. [^1]
-[^1]: This is the footnote.)
-
-## Heading ID
-### My Great Heading {#custom-id}
-(### My Great Heading {#custom-id})
-
-## Definition List	
-term
-: definition
-(term
-: definition)
-
-## Strikethrough
-~~The world is flat.~~
-(~~The world is flat.~~)
-
-## Task List
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-(- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media)
-
-## Emoji
-:joy:
-(:joy:)
-
-## Highlight
-==very important words==
-(==very important words==)
-
-## Subscript
-H~2~O
-(H~2~O)
-
-## Superscript
-X^2^
-(X^2^)
