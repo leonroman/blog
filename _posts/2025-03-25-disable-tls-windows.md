@@ -8,7 +8,7 @@ tags: tls windows agent azure devops
 # Prerequisites
 ## .Net
 
-Important: For Visual Studio, you are required to use .NET Framework 4.5.2 version or higher for TLS 1.2.
+**Important:** For Visual Studio, you are required to use .NET Framework 4.5.2 version or higher for TLS 1.2.
 
 Check .net version using cmd:
 
@@ -34,12 +34,12 @@ Client      4.0.0.0
 ```
 
 # Security Protocol Support by OS Version
-Source: https://learn.microsoft.com/en-us/security/engineering/solving-tls1-problem#figure-1-security-protocol-support-by-os-version
+**Source:** https://learn.microsoft.com/en-us/security/engineering/solving-tls1-problem#figure-1-security-protocol-support-by-os-version
 
 # Enable TLS 1.2
-Important: If you run a Windows version higher that Windows 7 (WS2008 R2), you can skip this step.
+**Important:** If you run a Windows version higher that Windows 7 (WS2008 R2), you can skip this step.
 
-Source: https://devblogs.microsoft.com/devops/azure-devops-services-to-require-tls-1-2
+**Source:** https://devblogs.microsoft.com/devops/azure-devops-services-to-require-tls-1-2
 
 You need to execute the following script from the PowerShell to set the registry key for TLS 1.2. 
 After running the script, you need to restart your machine.
@@ -58,7 +58,7 @@ If ([System.Environment]::Is64BitOperatingSystem) {
 ```
 
 # Disable TLS 1.0 & 1.1
-Source: https://thesecmaster.com/blog/how-to-disable-tls-1-0-and-tls-1-1-on-windows-server
+**Source:** https://thesecmaster.com/blog/how-to-disable-tls-1-0-and-tls-1-1-on-windows-server
 
 Run the below commands to create Registry entries.
  - TLS 1.0

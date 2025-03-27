@@ -3,7 +3,7 @@ layout: post
 title: "This post demonstrates post content styles"
 categories: junk
 author: Bart Simpson
-tags: fisrtarticle tagtest
+tags: markdown example
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
@@ -111,3 +111,124 @@ lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
 lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
 lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
 lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
+
+## Comment
+
+{% comment %}
+Might you have an include in your theme? Why not try it here!
+{% include my-themes-great-include.html %}
+{% endcomment %}
+
+
+Basic Syntax
+These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+
+------------------------------------------
+
+# Element	Markdown Syntax
+
+## Heading	
+# H1 - (# H1)
+## H2 - (## H2)
+### H3 - (### H3)
+
+## Bold	
+**bold text** - (**bold text**)
+
+## Italic	
+*italicized text* - (*italicized text*)
+
+## Blockquote	
+> blockquote - (> blockquote)
+
+## Ordered List	
+1. First item - (1. First item)
+2. Second item - (2. Second item)
+3. Third item - (3. Third item)
+
+## Unordered List	
+- First item - (- First item)
+- Second item - (- Second item)
+- Third item - (- Third item)
+
+## Code	`code`
+`code` - (`code`)
+
+## Link	
+[title](https://www.example.com) - ([title](https://www.example.com))
+
+## Image	
+![alt text](image.jpg) - (![alt text](image.jpg))
+
+# Extended Syntax
+These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+
+## Table
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+(| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |)
+
+## Fenced Code Block
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+(```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```)
+
+## Footnote
+Here's a sentence with a footnote. [^1]
+[^1]: This is the footnote.
+(Here's a sentence with a footnote. [^1]
+[^1]: This is the footnote.)
+
+## Heading ID
+### My Great Heading {#custom-id}
+(### My Great Heading {#custom-id})
+
+## Definition List	
+term
+: definition
+(term
+: definition)
+
+## Strikethrough
+~~The world is flat.~~
+(~~The world is flat.~~)
+
+## Task List
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+(- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media)
+
+## Emoji
+:joy:
+(:joy:)
+
+## Highlight
+==very important words==
+(==very important words==)
+
+## Subscript
+H~2~O
+(H~2~O)
+
+## Superscript
+X^2^
+(X^2^)
