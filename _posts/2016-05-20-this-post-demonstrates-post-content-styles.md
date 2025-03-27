@@ -10,6 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 # Some great heading (h1)
 
 Proin *italicized text* convallis **bold text** mi ac ~~strikethrough~~ felis <u>underline<u> pharetra aliquam.
+
 [title](https://www.example.com)
 
 ## Another great heading (h2)
@@ -19,19 +20,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 ### Some great subheading (h3)
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-### Some great subheading (h3)
-
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. 
-
 > This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam.
 
 ```html
 <html>
@@ -46,8 +37,6 @@ Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin con
 ```bash
 ls -ltr
 ```
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
 
 #### You might want a sub-subheading (h4)
 
