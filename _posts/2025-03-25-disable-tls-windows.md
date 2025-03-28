@@ -5,7 +5,7 @@ categories: junk
 author: rleon
 tags: agent azure devops git
 ---
-## The issues
+## The issue
 
 Keep getting the following error in the logs when the pipeline is trying to git push
 
