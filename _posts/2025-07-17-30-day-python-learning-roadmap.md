@@ -1,3 +1,10 @@
+---
+layout: post
+title: "30-Day Python Learning Roadmap"
+categories: junk
+author: rleon
+tags: python learn roadmap
+---
 
 ###Day 1: Introduction to Python
 ####Chapter 1: Getting Started
