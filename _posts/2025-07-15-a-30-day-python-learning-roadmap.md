@@ -221,5 +221,5 @@ Class methods and static methods
 - [https://www.python.org/doc/](https://www.python.org/doc/){:target="_blank"}
 - [https://programming-23.mooc.fi/](https://programming-23.mooc.fi/){:target="_blank"}
 - [https://static.realpython.com/python-basics-sample-chapters.pdf](https://static.realpython.com/python-basics-sample-chapters.pdf){:target="_blank"}
-- [https://mathstat.dal.ca/~brown/sound/python/ABeginnersGuideToPython3Progra.pdf](https://mathstat.dal.ca/~brown/sound/python/{:target="_blank"}ABeginnersGuideToPython3Progra.pdf)
-- [https://bugs.python.org/file47781/Tutorial_EDIT.pdf - For fun Python release 3.7.0](https://bugs.python.org/file47781/Tutorial_EDIT.{:target="_blank"}pdf - For fun Python release 3.7.0)
+- [https://mathstat.dal.ca/~brown/sound/python/ABeginnersGuideToPython3Progra.pdf](https://mathstat.dal.ca/~brown/sound/python/ABeginnersGuideToPython3Progra.pdf){:target="_blank"}
+- [https://bugs.python.org/file47781/Tutorial_EDIT.pdf - For fun Python release 3.7.0](https://bugs.python.org/file47781/Tutorial_EDIT.pdf){:target="_blank"}
