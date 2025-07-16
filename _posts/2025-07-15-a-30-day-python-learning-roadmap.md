@@ -215,3 +215,11 @@ Class methods and static methods
 - Contributing to open source
 - Specialization paths (web development, data science, automation)
 - Happy learning! Remember that consistent practice is key to mastering Python programming.
+
+
+### Books and resources:
+https://www.python.org/doc/
+https://programming-23.mooc.fi/
+https://static.realpython.com/python-basics-sample-chapters.pdf
+https://mathstat.dal.ca/~brown/sound/python/ABeginnersGuideToPython3Progra.pdf
+https://bugs.python.org/file47781/Tutorial_EDIT.pdf - For fun Python release 3.7.0
