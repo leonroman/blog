@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Azure DevOps - agents inventory pipeline"
-categories: devops
+categories: azure devops pipeline
 meta: "devops"
 ---
 
